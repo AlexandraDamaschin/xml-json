@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pages>
+    <page>
+        <!-- HTML -->
+        <image>
+            <src>'img/htmlLarge'</src>
+            <alt>htmlLargeImage</alt>
+        </image>
+        <title>HTML</title>
+        <stands>Hyper Text Markup Language</stands>
+        <date>July 3, 2017</date>
+        <description>Descrierea proiectului</description>
+        <theory>despre ce vorbim noi</theory>
+        <text>explicatii + text?</text>
+    </page>
+
+    <page>
+        <!-- XML -->
+        <image>
+            <src>'img/xmlLarge'</src>
+            <alt>xmlLargeImage</alt>
+        </image>
+        <title>XML</title>
+        <stands>eXtensible Markup Language</stands>
+        <date>July 3, 2017</date>
+        <description>Descrierea proiectului</description>
+        <theory>despre ce vorbim noi</theory>
+        <text>explicatii + text?</text>
+    </page>
+
+    <page>
+        <!-- JSON -->
+        <image>
+            <src>'img/jsonLarge'</src>
+            <alt>jsonLargeImage</alt>
+        </image>
+        <title>JSON</title>
+        <stands>JavaScript Object Notation</stands>
+        <date>July 3, 2017</date>
+        <description>Descrierea proiectului</description>
+        <theory>despre ce vorbim noi</theory>
+        <text>explicatii + text?</text>
+    </page>
+
+    <page>
+        <!-- CSS -->
+        <image>
+            <src>'img/cssLarge'</src>
+            <alt>htmlLargeImage</alt>
+        </image>
+        <title>CSS</title>
+        <stands> Cascading Style Sheets</stands>
+        <date>July 3, 2017</date>
+        <description>Descrierea proiectului</description>
+        <theory>despre ce vorbim noi</theory>
+        <text>explicatii + text?</text>
+    </page>
+
+    <page>
+        <!-- SASS -->
+        <image>
+            <src>'img/sassLarge'</src>
+            <alt>sassLargeIamge</alt>
+        </image>
+        <title>SASS</title>
+        <stands>Syntactically Awesome StyleSheets</stands>
+        <date>July 3, 2017</date>
+        <description>Descrierea proiectului</description>
+        <theory>despre ce vorbim noi</theory>
+        <text>explicatii + text?</text>
+    </page>
+</pages>

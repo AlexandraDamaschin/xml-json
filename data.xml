@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blog>
+    <!-- first page-->
+    <page> <!--HTML -->
+        <title>HTML</title>
+        <date> July 3, 2017</date>
+        <description> Descrierea proiectului </description>
+        <!--<href>"PageHTML.php"</href>-->
+        <!--xlink? here should be href and his button -->
+        <homepage xlink:href="PageHTML.php"> READ MORE »</homepage>
+        <image>
+            <src>'img/htmlLarge'</src>
+            <alt>htmlLargeImage</alt>
+        </image>
+        <content>Continut important</content>
+        <comments>comentarii</comments>
+    </page>
+
+    <page>  <!--XML -->
+        <title>XML</title>
+        <date>July 5, 2017</date>
+        <description> Descrierea proiectului </description>
+        <href>PageXML.php</href>
+        <image>
+            <src>'img/xmlLarge'</src>
+            <alt>htmlLargeImage</alt>
+        </image>
+        <content>Continut important</content>
+        <comments>comentarii</comments>
+    </page>
+
+    <!-- second page-->
+    <page>  <!--JSON -->
+        <title>JSON</title>
+        <date>July 10, 2017</date>
+        <description> Descrierea proiectului </description>
+        <href>PageJSON.php</href>
+        <image>
+            <src>'img/jsonLarge'</src>
+            <alt>htmlLargeImage</alt>
+        </image>
+        <content>Continut important</content>
+        <comments>comentarii</comments>
+    </page>
+
+    <page>  <!--CSS -->
+        <title>CSS</title>
+        <date>July 15, 2017</date>
+        <description> Descrierea proiectului </description>
+        <href>PageCSS.php</href>
+        <image>
+            <src>'img/cssLarge'</src>
+            <alt>htmlLargeImage</alt>
+        </image>
+        <content>Continut important</content>
+        <comments>comentarii</comments>
+    </page>
+
+    <page>  <!--SASS -->
+        <title>SASS</title>
+        <date>July 20, 2017</date>
+        <description> Descrierea proiectului </description>
+        <href>PageSASS.php</href>
+        <image>
+            <src>'img/sassLarge'</src>
+            <alt>htmlLargeImage</alt>
+        </image>
+        <content>Continut important</content>
+        <comments>comentarii</comments>
+    </page>
+
+
+</blog>
